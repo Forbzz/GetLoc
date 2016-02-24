@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Daren\AndroidStudioProjects\GetLoc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Daren\AndroidStudioProjects\GetLoc\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_9cd890fc29fd488b2baa398aea9e1d30dede6f74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daren\AndroidStudioProjects\GetLoc\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Daren\AndroidStudioProjects\GetLoc\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_a590b7a9fd8dcb7291065b3843db37ed45a1f569.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daren\AndroidStudioProjects\GetLoc\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Daren\AndroidStudioProjects\GetLoc\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_c0e9d3b12d5dcc8fa1b5e25418c7e2dd0e89227e.jar" />
+    </item>
+
+</items>
